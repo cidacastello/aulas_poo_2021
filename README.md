@@ -20,9 +20,9 @@ Me acomponhe e inscreva-se no canal do Youtube [Cida Castello](https://www.youtu
 Dicas e novidades pelo Instagram [Cida Castello](https://www.instagram.com/cidacastello/) :+1:
 
 ### Ferramentas / Softwares
-* [Visual Studio Community](https://visualstudio.microsoft.com/pt-br/vs/){:target="_blank"}
+* [Visual Studio Community](https://visualstudio.microsoft.com/pt-br/vs/)
 
-* [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"}
+* [Visual Studio Code](https://code.visualstudio.com/)
 
 # Autora
 Aparecida Castello
